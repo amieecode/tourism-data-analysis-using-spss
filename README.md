@@ -44,10 +44,8 @@ The following statistical techniques were applied using SPSS:
 - Standard Deviation
 - Minimum
 - Maximum
-  
 2. Correlation Analysis
-- Pearson correlation coefficients were used to examine relationships among variables.
-  
+- Pearson correlation coefficients were used to examine relationships among variables.  
 3. Multiple Linear Regression
 - Used to assess the impact of independent variables on tourism contribution.
 - Model diagnostics such as R-square, ANOVA, coefficients, and multicollinearity checks were examined.

@@ -29,6 +29,7 @@ The dataset initially contained missing values, which were addressed during the 
 ## Variables Used
 Dependent Variable
 - tourism_percent – Measures tourism contribution
+  
 Independent Variables
 - inbound_arrivals
 - outbound_departure
@@ -43,9 +44,11 @@ The following statistical techniques were applied using SPSS:
 - Standard Deviation
 - Minimum
 - Maximum
+  
 2. Correlation Analysis
 - Pearson correlation coefficients were used to examine relationships among variables.
-- Multiple Linear Regression
+  
+3. Multiple Linear Regression
 - Used to assess the impact of independent variables on tourism contribution.
 - Model diagnostics such as R-square, ANOVA, coefficients, and multicollinearity checks were examined.
 
